@@ -1,0 +1,31 @@
+Additional Resources for Plotly
+To learn more about using Plotly to create dashboards, explore
+
+Plotly python - https://plotly.com/python/getting-started/
+
+Plotly graph objects with example - https://plotly.com/python/graph-objects/
+
+Plotly express - https://plotly.com/python/plotly-express/
+
+API reference(Python API reference for plotly) - https://plotly.com/python-api-reference/
+
+Here are additional useful resources:
+
+Plotly cheatsheet - https://images.plot.ly/plotly-documentation/images/plotly_js_cheat_sheet.pdf
+
+Plotly community
+
+Related blogs - https://plotlygraphs.medium.com/
+
+
+https://veervsps-8050.theiadocker-3-labs-prod-theiak8s-3-tor01.proxy.cognitiveclass.ai/
+
+https://github.com/DeNemchenko/Data-Visualization-with-Python-Final-Assignment/blob/master/Data_Visualization_with_Python.ipynb
+
+https://github.com/navassherif98/IBM_Data_Science_Professional_Certification/tree/master/8.Data%20Visualization%20with%20Python/Week%205%20Final%20Project
+
+https://www.kaggle.com/andersonmatias/final-assignment-data-visualization-with-python
+
+https://github.com/Girish-Chandra/Analysing-US-Domestic-Airline-Flights-performance/blob/main/peer%20graded%20assignment%20(splitted%20code%20version).ipynb
+
+https://github.com/kv5uzair/DataVisualizationPython/blob/main/Assignment-Data%20Visualization%20Using%20Python%20-US%20Domestic%20Airline%20Flights%20Performance-Dashboard%20Application.ipynb
