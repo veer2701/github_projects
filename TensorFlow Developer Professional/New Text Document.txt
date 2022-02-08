@@ -1,0 +1,9 @@
+Quiz Solution
+https://github.com/MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course
+
+Assignment
+https://github.com/indahpuspitaa17/DeepLearning.AI-TensorFlow-Developer
+
+https://github.com/Narciso-L/DeepLearningAI-TensorFlow-Developer-Professional-Certificate/blob/main/3-NLP-in-TensorFlow/Week4/Weekly_Exercise_NLP_LSTM_Shakespeare.ipynb
+
+https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203
